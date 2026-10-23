@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../laragon/www/tarefas-php"
+		},
+		{
+			"path": ".github"
+		},
+		{
+			"path": "assets"
+		},
+		{
+			"path": "database"
+		},
+		{
+			"path": "includes"
+		}
+	],
+	"settings": {}
+}
